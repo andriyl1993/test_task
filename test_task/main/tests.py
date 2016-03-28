@@ -47,5 +47,4 @@ class CreateDomains(TestCase):
 
 
 if __name__ == "__main__":
-	# settings.configure()
 	unittest2.main()
